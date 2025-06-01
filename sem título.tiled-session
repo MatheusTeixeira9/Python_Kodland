@@ -1,0 +1,56 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "bg.tmx": {
+            "scale": 3.7718518518518516,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 270.0265121759623,
+                "y": 179.8851139041634
+            }
+        },
+        "map.tmx": {
+            "scale": 3,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 334.1666666666667,
+                "y": 162.16666666666666
+            }
+        },
+        "tilemap-backgrounds_packed.tsx": {
+            "scaleInDock": 1
+        },
+        "tilemap_packed.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "E:/Matheus/Documents/Docs/Python_Kodland",
+    "last.imagePath": "E:/Matheus/Documents/Docs/Python_Kodland/files/Pixel plataformer/Tilemap",
+    "map.lastUsedExportFilter": "Arquivos de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "openFiles": [
+        "tilemap_packed.tsx",
+        "map.tmx"
+    ],
+    "project": "sem título.tiled-project",
+    "recentFiles": [
+        "tilemap_packed.tsx",
+        "map.tmx",
+        "bg.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
